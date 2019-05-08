@@ -1,8 +1,8 @@
-1. install
-npm install
+# install
+1. npm install
 
-2. run
-node app.js
+# run
+1. node app.js
 
-3. description
-implemented register, login, with express, jwt, mysql
+# description
+1. implemented register, login, with express, jwt, mysql
